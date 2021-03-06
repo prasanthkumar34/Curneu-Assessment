@@ -21,7 +21,7 @@ export const Wrapper = styled.div`
   font-family: GTWalsheim;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   transition: background-color 5s linear; 
-
+  margin-left: 400px;
   width: 480px;
   border-radius: 50px;
   background-color: ${dark};
